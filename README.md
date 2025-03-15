@@ -25,3 +25,4 @@
 - Não tem mod de gravestone, morreu tem que recuperar em menos de 5min se o chunk está sendo carregado
 - Tem um mod de elytra que deixa os controles diferentes, cuidado ao pegar uma e voar no void
 - Aloca mais memória para o Minecraft se possível, [tutorial](https://hypixel.net/threads/guide-how-to-allocate-more-ram-into-your-minecraft.123023/)
+- o mod tem voicechat com proximidade, nao é necessario o discord
