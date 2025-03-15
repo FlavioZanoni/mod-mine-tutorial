@@ -16,3 +16,10 @@
 
 6. Clique em "Play" para iniciar o jogo.
    ![Iniciando o jogo](https://github.com/user-attachments/assets/45f063ea-063e-4273-9e60-3bde11cb1ce6)
+
+## DICAS
+
+- nao tem keep inventory, cuidado
+- nao tem mod de gravestone, morreu tem q recuperar em menos de 5min se o chunk esta sendo carregado
+- tem um mod de elytra que deixa os controles diferentes, cuidado ao pegar uma e voar no void
+- aloca mais memoria para o mine se possivel, [tutorial](https://hypixel.net/threads/guide-how-to-allocate-more-ram-into-your-minecraft.123023/)
